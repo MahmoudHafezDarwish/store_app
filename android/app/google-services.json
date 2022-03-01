@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886859922483",
+    "project_id": "moma-store",
+    "storage_bucket": "moma-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886859922483:android:3f59db8355988fbfb1b746",
+        "android_client_info": {
+          "package_name": "com.example.store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886859922483-jaki6egpfji5p0g36mpbciosiut00g11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgCz1T39a2zZk1a1nRY18wuJcGBikWhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886859922483-jaki6egpfji5p0g36mpbciosiut00g11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
